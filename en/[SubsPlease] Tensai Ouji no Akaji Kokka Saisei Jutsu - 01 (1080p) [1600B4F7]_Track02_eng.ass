@@ -1,0 +1,355 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:33.99,0:00:38.03,Default,,0,0,0,,And now for my report if I may.
+Dialogue: 0,0:00:38.03,0:00:42.20,Default,,0,0,0,,We just received word of the\NEmperor of Earthwold's sudden passing.
+Dialogue: 0,0:00:42.20,0:00:44.50,Default,,0,0,0,,
+Dialogue: 0,0:00:44.50,0:00:47.38,Default,,0,0,0,,{\an8}"Crown Prince Wein Salema Arbalest,\NKingdom of Natra"
+Dialogue: 0,0:00:44.50,0:00:47.38,Default,,0,0,0,,And there is now a power struggle\Nwithin the imperial palace.
+Dialogue: 0,0:00:47.38,0:00:51.30,Default,,0,0,0,,{\an8}"Crown Prince Wein Salema Arbalest,\NKingdom of Natra"
+Dialogue: 0,0:00:47.38,0:00:51.30,Default,,0,0,0,,The emperor's charisma is\Nwhat propelled the empire forward.
+Dialogue: 0,0:00:51.30,0:00:53.51,Default,,0,0,0,,
+Dialogue: 0,0:00:53.51,0:00:55.01,Default,,0,0,0,,{\an8}"Ninym Ralei, Aide to the Crown Prince,\NKingdom of Natra"
+Dialogue: 0,0:00:53.51,0:00:55.01,Default,,0,0,0,,But the brighter the light,\Nthe deeper the darkness that follows.
+Dialogue: 0,0:00:55.01,0:00:59.55,Default,,0,0,0,,{\an8}"Ninym Ralei, Aide to the Crown Prince,\NKingdom of Natra"
+Dialogue: 0,0:00:55.01,0:00:59.55,Default,,0,0,0,,It will be even darker if\Nthey failed to name a successor.
+Dialogue: 0,0:00:59.55,0:01:04.39,Default,,0,0,0,,There is unrest within the empire\Nand the kingdoms surrounding us.
+Dialogue: 0,0:01:04.39,0:01:08.23,Default,,0,0,0,,However, we are...\NOr should I say, here in Natra,
+Dialogue: 0,0:01:08.23,0:01:10.69,Default,,0,0,0,,we are graced with a beacon of hope.
+Dialogue: 0,0:01:10.69,0:01:14.19,Default,,0,0,0,,Prince Wein, that would be you,\NYour Highness.
+Dialogue: 0,0:01:15.11,0:01:16.61,Default,,0,0,0,,But it's not just me.
+Dialogue: 0,0:01:16.61,0:01:19.70,Default,,0,0,0,,You liegemen who supported\Nmy father all these years
+Dialogue: 0,0:01:19.70,0:01:22.45,Default,,0,0,0,,are also a beacon of hope.
+Dialogue: 0,0:01:22.45,0:01:23.62,Default,,0,0,0,,Your Highness.
+Dialogue: 0,0:01:23.62,0:01:26.29,Default,,0,0,0,,We are not worthy of such words.
+Dialogue: 0,0:01:28.17,0:01:31.67,Default,,0,0,0,,As long as we stand united\Ntoward the same goal,
+Dialogue: 0,0:01:31.67,0:01:34.17,Default,,0,0,0,,there is no challenge we can't overcome.
+Dialogue: 0,0:01:34.17,0:01:38.72,Default,,0,0,0,,That earlier matter with the\Nimperial ambassador proves it.
+Dialogue: 0,0:01:38.72,0:01:41.22,Default,,0,0,0,,It is just as you say, Your Highness.
+Dialogue: 0,0:01:41.22,0:01:44.68,Default,,0,0,0,,Your Highness, what a\Nmagnificent man you've become.
+Dialogue: 0,0:01:44.68,0:01:46.39,Default,,0,0,0,,Nothing else to report?
+Dialogue: 0,0:01:46.39,0:01:47.44,Default,,0,0,0,,Nothing more.
+Dialogue: 0,0:01:47.44,0:01:50.31,Default,,0,0,0,,Then I thank you. You're dismissed.
+Dialogue: 0,0:01:50.31,0:01:51.61,Default,,0,0,0,,Your Highness!
+Dialogue: 0,0:02:06.29,0:02:15.26,Default,,0,0,0,,I can't wait to sell off this kingdom!
+Dialogue: 0,0:03:57.44,0:04:00.74,Default,,0,0,0,,You're also a beacon of hope?
+Dialogue: 0,0:04:00.74,0:04:04.53,Default,,0,0,0,,As long as we stand united\Ntoward the same goal?
+Dialogue: 0,0:04:04.53,0:04:06.16,Default,,0,0,0,,I didn't mean a word of it!
+Dialogue: 0,0:04:06.16,0:04:09.74,Default,,0,0,0,,No way in hell can I get this\Nkingdom out of the mess it's in!
+Dialogue: 0,0:04:09.74,0:04:13.75,Default,,0,0,0,,Ain't gonna happen! No way, no how!
+Dialogue: 0,0:04:13.75,0:04:19.00,Default,,0,0,0,,You shouldn't keep saying such things,\Neven if you're joking, Wein.
+Dialogue: 0,0:04:19.00,0:04:23.47,Default,,0,0,0,,I never said I was joking, Ninym!\NI'm totally serious!
+Dialogue: 0,0:04:23.47,0:04:25.30,Default,,0,0,0,,That's even worse.
+Dialogue: 0,0:04:25.30,0:04:28.60,Default,,0,0,0,,You grow lazy the moment\Nyou know no one's watching.
+Dialogue: 0,0:04:28.60,0:04:30.81,Default,,0,0,0,,You must try a little harder.
+Dialogue: 0,0:04:30.81,0:04:35.73,Default,,0,0,0,,Huh? What's with the poindexter act?
+Dialogue: 0,0:04:35.73,0:04:41.53,Default,,0,0,0,,Ninym, even you know how dirt poor\Nthis kingdom is in every possible way.
+Dialogue: 0,0:04:42.53,0:04:46.11,Default,,0,0,0,,We're a petty kingdom\Nwith no more than 500,000 subjects.
+Dialogue: 0,0:04:46.11,0:04:51.24,Default,,0,0,0,,And in the continent's far north,\Nspring is short, and winter is long.
+Dialogue: 0,0:04:51.24,0:04:54.91,Default,,0,0,0,,Plus, most of our territory\Nconsists of barren rock and mountains.
+Dialogue: 0,0:04:54.91,0:04:57.63,Default,,0,0,0,,There's no money to invest\Nin domestic development,
+Dialogue: 0,0:04:57.63,0:05:00.42,Default,,0,0,0,,our meager resources mean\Nwe can't raise capital,
+Dialogue: 0,0:05:00.42,0:05:03.34,Default,,0,0,0,,and we have no industries of value.
+Dialogue: 0,0:05:03.34,0:05:05.05,Default,,0,0,0,,And that's putting it lightly.
+Dialogue: 0,0:05:05.05,0:05:08.97,Default,,0,0,0,,We're a weak little kingdom that\Ncould be wiped off the map in a flash.
+Dialogue: 0,0:05:08.97,0:05:12.72,Default,,0,0,0,,And now my old man's fallen ill,\Nand I gotta run things.
+Dialogue: 0,0:05:12.72,0:05:15.98,Default,,0,0,0,,I can't take it anymore!
+Dialogue: 0,0:05:15.98,0:05:20.48,Default,,0,0,0,,I can't wait to sell\Nthis kingdom and disappear.
+Dialogue: 0,0:05:20.48,0:05:24.19,Default,,0,0,0,,But to do that,\Nfirst I gotta strengthen Natra.
+Dialogue: 0,0:05:24.19,0:05:28.99,Default,,0,0,0,,The greater a nation's value,\Nthe higher the price it will fetch.
+Dialogue: 0,0:05:28.99,0:05:33.20,Default,,0,0,0,,That will affect how cushy\Nmy retirement life will be!
+Dialogue: 0,0:05:33.20,0:05:36.50,Default,,0,0,0,,Yeah, yeah, I'm sick of hearing\Nthat harebrained plan.
+Dialogue: 0,0:05:36.50,0:05:40.46,Default,,0,0,0,,There are other things\Nyou should be worrying about.
+Dialogue: 0,0:05:42.34,0:05:43.71,Default,,0,0,0,,
+Dialogue: 0,0:05:43.71,0:05:45.97,Default,,0,0,0,,{\an8}"Princess Falanya Elk Arbalest,\NKingdom of Natra"
+Dialogue: 0,0:05:43.71,0:05:45.97,Default,,0,0,0,,Dear Brother, sorry to bother\Nyou when you're so busy.
+Dialogue: 0,0:05:45.97,0:05:48.30,Default,,0,0,0,,{\an8}"Princess Falanya Elk Arbalest,\NKingdom of Natra"
+Dialogue: 0,0:05:45.97,0:05:48.30,Default,,0,0,0,,Do you have a moment?
+Dialogue: 0,0:05:48.30,0:05:49.76,Default,,0,0,0,,Of course.
+Dialogue: 0,0:05:52.14,0:05:54.22,Default,,0,0,0,,Is something the matter, Falanya?
+Dialogue: 0,0:05:54.22,0:05:58.52,Default,,0,0,0,,I just saw Father and wished\Nto inform you of his condition.
+Dialogue: 0,0:05:58.52,0:05:59.56,Default,,0,0,0,,I see.
+Dialogue: 0,0:05:59.56,0:06:02.82,Default,,0,0,0,,Father is looking much better.
+Dialogue: 0,0:06:02.82,0:06:05.15,Default,,0,0,0,,He even felt ready to take a walk today.
+Dialogue: 0,0:06:05.15,0:06:07.07,Default,,0,0,0,,That's great news.
+Dialogue: 0,0:06:07.07,0:06:10.41,Default,,0,0,0,,But let's hold off on\Nthat walk a bit longer.
+Dialogue: 0,0:06:10.41,0:06:11.87,Default,,0,0,0,,How come?
+Dialogue: 0,0:06:11.87,0:06:17.00,Default,,0,0,0,,The neighboring kingdom of Marden\Nis poised to invade Natra at any moment.
+Dialogue: 0,0:06:17.00,0:06:19.25,Default,,0,0,0,,What? Are you saying...?
+Dialogue: 0,0:06:19.25,0:06:20.88,Default,,0,0,0,,We're going to war.
+Dialogue: 0,0:06:22.54,0:06:25.76,Default,,0,0,0,,Marden was once on par with Natra
+Dialogue: 0,0:06:25.76,0:06:29.55,Default,,0,0,0,,until a newly discovered gold mine\Nallowed their kingdom to rapidly expand.
+Dialogue: 0,0:06:29.55,0:06:32.55,Default,,0,0,0,,However, their current king is unpopular.
+Dialogue: 0,0:06:32.55,0:06:34.35,Default,,0,0,0,,But you already know that.
+Dialogue: 0,0:06:34.35,0:06:35.35,Default,,0,0,0,,Yes.
+Dialogue: 0,0:06:35.35,0:06:38.31,Default,,0,0,0,,I learned he is served\Nby corrupt officials
+Dialogue: 0,0:06:38.31,0:06:43.98,Default,,0,0,0,,who ignore his failures and reaffirm\Nhis belief that he's an enlightened ruler.
+Dialogue: 0,0:06:43.98,0:06:49.28,Default,,0,0,0,,He is creating a vicious cycle that\Nwill drive his kingdom into the ground.
+Dialogue: 0,0:06:49.28,0:06:53.99,Default,,0,0,0,,That's why their king is looking\Nfor an easy win to distract his people.
+Dialogue: 0,0:06:53.99,0:06:56.70,Default,,0,0,0,,And our kingdom fits the bill
+Dialogue: 0,0:06:56.70,0:07:00.42,Default,,0,0,0,,now that the imperial forces\Nthat were stationed here are gone.
+Dialogue: 0,0:07:00.42,0:07:04.42,Default,,0,0,0,,But you won't let them do that, will you?
+Dialogue: 0,0:07:04.42,0:07:08.97,Default,,0,0,0,,I overheard the military officers\Ntalking in the inner courtyard.
+Dialogue: 0,0:07:08.97,0:07:10.26,Default,,0,0,0,,What did they say?
+Dialogue: 0,0:07:10.26,0:07:14.43,Default,,0,0,0,,"Now is the time for the swords of\NNatra to fulfill their appointed task!"
+Dialogue: 0,0:07:14.43,0:07:18.43,Default,,0,0,0,,And, "As liegemen, we must live up\Nto the prince's expectations."
+Dialogue: 0,0:07:18.43,0:07:19.31,Default,,0,0,0,,Stuff like that!
+Dialogue: 0,0:07:19.31,0:07:20.94,Default,,0,0,0,,Did they really?
+Dialogue: 0,0:07:20.94,0:07:23.69,Default,,0,0,0,,You heard them, too, right, Nanaki?
+Dialogue: 0,0:07:24.52,0:07:25.23,Default,,0,0,0,,{\an8}"Nanaki Ralei, Falanya's Bodyguard"
+Dialogue: 0,0:07:25.23,0:07:27.94,Default,,0,0,0,,{\an8}"Nanaki Ralei, Falanya's Bodyguard"
+Dialogue: 0,0:07:25.23,0:07:27.94,Default,,0,0,0,,Yes, they wouldn't shut up.
+Dialogue: 0,0:07:27.94,0:07:31.74,Default,,0,0,0,,Oh no, are those idiots getting\Nall excited at the thought of battle?
+Dialogue: 0,0:07:31.74,0:07:33.62,Default,,0,0,0,,Are they raring to go?
+Dialogue: 0,0:07:33.62,0:07:37.87,Default,,0,0,0,,Do they have any idea how\Nexpensive it is to wage war?!
+Dialogue: 0,0:07:37.87,0:07:39.50,Default,,0,0,0,,Brother?
+Dialogue: 0,0:07:41.33,0:07:45.25,Default,,0,0,0,,I'll pray for your victory.\NThat's all I can do.
+Dialogue: 0,0:07:45.25,0:07:47.59,Default,,0,0,0,,May you defeat our foes!
+Dialogue: 0,0:07:47.59,0:07:49.34,Default,,0,0,0,,Y-Yes, thanks.
+Dialogue: 0,0:07:49.34,0:07:54.18,Default,,0,0,0,,We'll launch a half-hearted attack\Nand then sue for peace.
+Dialogue: 0,0:08:03.94,0:08:08.32,Default,,0,0,0,,Natra's forces number\N6,000 against Marden's 7,000.
+Dialogue: 0,0:08:08.32,0:08:10.15,Default,,0,0,0,,Your Highness.
+Dialogue: 0,0:08:10.15,0:08:12.95,Default,,0,0,0,,Both armies are arrayed on the field.
+Dialogue: 0,0:08:12.95,0:08:15.57,Default,,0,0,0,,Now we wait for the battle to begin.
+Dialogue: 0,0:08:15.57,0:08:16.83,Default,,0,0,0,,Yes, Your Highness.
+Dialogue: 0,0:08:16.83,0:08:19.12,Default,,0,0,0,,And I was hoping
+Dialogue: 0,0:08:19.12,0:08:22.04,Default,,0,0,0,,you might have some words for the troops.
+Dialogue: 0,0:08:22.04,0:08:25.17,Default,,0,0,0,,Battles wear down more\Nthan a soldier's body.
+Dialogue: 0,0:08:25.17,0:08:27.92,Default,,0,0,0,,They also take a toll on his soul.
+Dialogue: 0,0:08:27.92,0:08:32.97,Default,,0,0,0,,Would you not give them a\Nfew words to boost their morale?
+Dialogue: 0,0:08:32.97,0:08:35.43,Default,,0,0,0,,Though they've been trained by the empire,
+Dialogue: 0,0:08:35.43,0:08:39.47,Default,,0,0,0,,their tension is palpable,\Nfor this is their first real battle.
+Dialogue: 0,0:08:42.85,0:08:45.56,Default,,0,0,0,,Torace of Heinoy.
+Dialogue: 0,0:08:45.56,0:08:47.94,Default,,0,0,0,,Your spear is upside down.
+Dialogue: 0,0:08:49.40,0:08:53.07,Default,,0,0,0,,Forgive me, Your Highness!
+Dialogue: 0,0:08:53.07,0:08:55.07,Default,,0,0,0,,Karlmann, Patess,
+Dialogue: 0,0:08:55.07,0:08:56.57,Default,,0,0,0,,Livi, Logli.
+Dialogue: 0,0:08:56.57,0:08:58.41,Default,,0,0,0,,It's not that funny.
+Dialogue: 0,0:08:58.41,0:09:00.20,Default,,0,0,0,,Yes, Your Highness!
+Dialogue: 0,0:09:01.08,0:09:04.16,Default,,0,0,0,,That eased the tension a bit.
+Dialogue: 0,0:09:05.67,0:09:10.42,Default,,0,0,0,,Until this day, Natra's army has\Nbeen looked down on as weak.
+Dialogue: 0,0:09:10.42,0:09:13.67,Default,,0,0,0,,It may have been true at one time.
+Dialogue: 0,0:09:13.67,0:09:17.72,Default,,0,0,0,,Marden's army likely\Nlooks down on us, too.
+Dialogue: 0,0:09:17.72,0:09:19.80,Default,,0,0,0,,But I know the truth.
+Dialogue: 0,0:09:19.80,0:09:23.68,Default,,0,0,0,,You have survived\Nthe most grueling training.
+Dialogue: 0,0:09:23.68,0:09:28.77,Default,,0,0,0,,I know that you possess a noble\Ncourage that is beyond compare.
+Dialogue: 0,0:09:28.77,0:09:35.99,Default,,0,0,0,,And I know that as you face our invaders,\Na flame imperishable burns in your hearts.
+Dialogue: 0,0:09:35.99,0:09:42.20,Default,,0,0,0,,Therefore, you can no longer\Nbe seen as weak by any measure.
+Dialogue: 0,0:09:43.70,0:09:45.91,Default,,0,0,0,,Now prove it in battle!
+Dialogue: 0,0:09:45.91,0:09:48.79,Default,,0,0,0,,Show them that we are\Nthe dragon of the north!
+Dialogue: 0,0:09:48.79,0:09:53.42,Default,,0,0,0,,Let it resound across the continent!\NWe are the most formidable force of all!
+Dialogue: 0,0:09:53.42,0:09:57.93,Default,,0,0,0,,Today is the day we fight\Nand rewrite history!
+Dialogue: 0,0:10:05.10,0:10:07.02,Default,,0,0,0,,That was magnificent.
+Dialogue: 0,0:10:07.02,0:10:11.48,Default,,0,0,0,,At least they won't be so nervous\Nthat they lose hold of their weapons.
+Dialogue: 0,0:10:11.48,0:10:16.40,Default,,0,0,0,,Did you plant those soldiers\Nyou addressed by name?
+Dialogue: 0,0:10:16.40,0:10:19.74,Default,,0,0,0,,Don't be silly. I was winging it.
+Dialogue: 0,0:10:19.74,0:10:22.78,Default,,0,0,0,,We're not an empire with\Nhundreds of thousands of troops.
+Dialogue: 0,0:10:22.78,0:10:27.58,Default,,0,0,0,,Natra only has about 10,000\Nif you add them all up.
+Dialogue: 0,0:10:43.18,0:10:46.64,Default,,0,0,0,,Hear me, brave warriors of Marden!
+Dialogue: 0,0:10:46.64,0:10:49.60,Default,,0,0,0,,Natra's troops are\Nbut lowly foot soldiers!
+Dialogue: 0,0:10:49.60,0:10:51.86,Default,,0,0,0,,They mistake recklessness for courage
+Dialogue: 0,0:10:51.86,0:10:56.07,Default,,0,0,0,,and are now trying to thwart\Nour advance like the fools they are.
+Dialogue: 0,0:10:56.07,0:10:59.65,Default,,0,0,0,,But there is no way in hell\Nthese northern peasants
+Dialogue: 0,0:10:59.65,0:11:03.41,Default,,0,0,0,,can defeat our army of elite troops!
+Dialogue: 0,0:11:04.95,0:11:06.41,Default,,0,0,0,,Trample them underfoot!
+Dialogue: 0,0:11:06.41,0:11:10.58,Default,,0,0,0,,Stain this wasteland red with their blood!
+Dialogue: 0,0:11:13.21,0:11:15.67,Default,,0,0,0,,Stand ready, men!
+Dialogue: 0,0:11:19.22,0:11:20.97,Default,,0,0,0,,Ready...
+Dialogue: 0,0:11:20.97,0:11:22.93,Default,,0,0,0,,Attack!
+Dialogue: 0,0:11:33.40,0:11:35.27,Default,,0,0,0,,I have a report, Your Highness!
+Dialogue: 0,0:11:35.27,0:11:38.94,Default,,0,0,0,,Marden's troops are in a\Ncenter-heavy formation!
+Dialogue: 0,0:11:38.94,0:11:44.32,Default,,0,0,0,,We'll break through their center,\Nthen turn and crush them from behind!
+Dialogue: 0,0:11:44.32,0:11:46.91,Default,,0,0,0,,In that case, we'll stand our ground!
+Dialogue: 0,0:11:46.91,0:11:49.12,Default,,0,0,0,,They'll break upon our defensive line.
+Dialogue: 0,0:11:49.12,0:11:52.17,Default,,0,0,0,,The Mardenian army\Nwon't know what hit them!
+Dialogue: 0,0:12:01.59,0:12:03.80,Default,,0,0,0,,Hey, hey, hey!
+Dialogue: 0,0:12:03.80,0:12:06.30,Default,,0,0,0,,W-Wait a second. What is happening?
+Dialogue: 0,0:12:06.30,0:12:10.10,Default,,0,0,0,,General Urgio! Our left flank\Nis requesting reinforcements!
+Dialogue: 0,0:12:10.10,0:12:14.27,Default,,0,0,0,,Sir! Sanse Company was decimated!\NTology Company is moving to fill the void!
+Dialogue: 0,0:12:14.27,0:12:17.23,Default,,0,0,0,,General! Our right flank\Nis in dire straits, too!
+Dialogue: 0,0:12:17.23,0:12:21.61,Default,,0,0,0,,What the hell?! How can these\NNatran troops be so formidable?!
+Dialogue: 0,0:12:21.61,0:12:25.20,Default,,0,0,0,,How can Marden be so weak?!
+Dialogue: 0,0:12:25.20,0:12:29.20,Default,,0,0,0,,What is going on? How can\Nwe possibly be kicking their butt?
+Dialogue: 0,0:12:34.33,0:12:37.79,Default,,0,0,0,,What's with Marden's tactics?\NIt's not a schoolyard brawl!
+Dialogue: 0,0:12:38.21,0:12:41.17,Default,,0,0,0,,Meanwhile, our troops are dominating.
+Dialogue: 0,0:12:41.17,0:12:43.63,Default,,0,0,0,,Is there a problem, Your Highness?
+Dialogue: 0,0:12:43.63,0:12:47.68,Default,,0,0,0,,No. It's just I'm surprised by how\Nfiercely our troops are fighting.
+Dialogue: 0,0:12:47.68,0:12:51.68,Default,,0,0,0,,Has it all not gone as you planned,\NYour Highness?
+Dialogue: 0,0:12:51.68,0:12:57.48,Default,,0,0,0,,I remember that day you met\Nwith the imperial ambassador.
+Dialogue: 0,0:12:57.48,0:12:59.07,Default,,0,0,0,,Ambassador Brandel.
+Dialogue: 0,0:12:59.07,0:13:03.82,Default,,0,0,0,,{\an8}"Ambassador Fisch Brandel,\NEmpire of Earthwold"
+Dialogue: 0,0:12:59.07,0:13:03.82,Default,,0,0,0,,I view maintaining relations\Nwith the empire as my top priority.
+Dialogue: 0,0:13:03.82,0:13:06.28,Default,,0,0,0,,As such, should we not bridge the divide
+Dialogue: 0,0:13:06.28,0:13:10.58,Default,,0,0,0,,between the Imperial Army\Nand Natra's Royal Army?
+Dialogue: 0,0:13:10.58,0:13:12.12,Default,,0,0,0,,I concur, Your Highness.
+Dialogue: 0,0:13:12.12,0:13:13.58,Default,,0,0,0,,What I propose is this.
+Dialogue: 0,0:13:13.58,0:13:19.63,Default,,0,0,0,,Would you not provide the Imperial Army's\Nexpertise and funding to our Royal Army?
+Dialogue: 0,0:13:20.84,0:13:26.18,Default,,0,0,0,,Who would ever believe\Nthey would accept such a request?
+Dialogue: 0,0:13:26.18,0:13:29.93,Default,,0,0,0,,But Ambassador Brandel {\i1}did {\i0}accept it.
+Dialogue: 0,0:13:29.93,0:13:35.23,Default,,0,0,0,,That means we've adopted the methods of\Nthe continent's greatest military force.
+Dialogue: 0,0:13:35.23,0:13:39.11,Default,,0,0,0,,And now that our military has\Ntapped the empire's abundant capital,
+Dialogue: 0,0:13:39.11,0:13:41.65,Default,,0,0,0,,it's grown more powerful before our eyes.
+Dialogue: 0,0:13:41.65,0:13:43.78,Default,,0,0,0,,Natra's army is more than a match
+Dialogue: 0,0:13:43.78,0:13:48.78,Default,,0,0,0,,for any petty kingdom that has\Nonly experienced limited skirmishes.
+Dialogue: 0,0:13:48.78,0:13:54.29,Default,,0,0,0,,Ideally, Marden will cut\Ntheir losses and run, but...
+Dialogue: 0,0:13:54.29,0:13:58.00,Default,,0,0,0,,Your Highness! The center\Nof our line is under pressure!
+Dialogue: 0,0:13:59.21,0:14:02.00,Default,,0,0,0,,The morale of our forces\Nis starting to fray.
+Dialogue: 0,0:14:02.00,0:14:03.76,Default,,0,0,0,,Crap!
+Dialogue: 0,0:14:03.76,0:14:06.01,Default,,0,0,0,,After all that training?
+Dialogue: 0,0:14:06.01,0:14:09.30,Default,,0,0,0,,Even after rigorous training\Nand your inspiring words,
+Dialogue: 0,0:14:09.30,0:14:14.85,Default,,0,0,0,,Natra's troops are not mentally\Nprepared for a real battlefield.
+Dialogue: 0,0:14:14.85,0:14:20.73,Default,,0,0,0,,The chill air, splattering blood,\Nand wanton slaughter consume them.
+Dialogue: 0,0:14:22.52,0:14:26.03,Default,,0,0,0,,The tide turns against us.
+Dialogue: 0,0:14:26.86,0:14:29.82,Default,,0,0,0,,Please don't notice.
+Dialogue: 0,0:14:33.37,0:14:36.58,Default,,0,0,0,,Natra's forces are\Nno longer pressing the attack.
+Dialogue: 0,0:14:36.58,0:14:39.96,Default,,0,0,0,,Their strength is but a facade.
+Dialogue: 0,0:14:39.96,0:14:44.09,Default,,0,0,0,,Order the commanders of\Nboth flanks to enter the fray
+Dialogue: 0,0:14:44.09,0:14:47.09,Default,,0,0,0,,and stop the enemy dead in their tracks!
+Dialogue: 0,0:14:47.09,0:14:50.64,Default,,0,0,0,,And have our forces in\Nthe center reform their lines!
+Dialogue: 0,0:14:50.64,0:14:52.80,Default,,0,0,0,,We strike once they are ready!
+Dialogue: 0,0:14:52.80,0:14:55.06,Default,,0,0,0,,What's the target?
+Dialogue: 0,0:14:55.64,0:14:59.85,Default,,0,0,0,,The head of their leader!
+Dialogue: 0,0:15:02.48,0:15:03.94,Default,,0,0,0,,Oh, crap!
+Dialogue: 0,0:15:03.94,0:15:05.69,Default,,0,0,0,,He noticed.
+Dialogue: 0,0:15:05.69,0:15:08.36,Default,,0,0,0,,Your Highness, we must fall back now.
+Dialogue: 0,0:15:08.36,0:15:10.41,Default,,0,0,0,,I know.
+Dialogue: 0,0:15:10.41,0:15:13.66,Default,,0,0,0,,General! They're fleeing from their camp!
+Dialogue: 0,0:15:13.66,0:15:18.08,Default,,0,0,0,,Pathetic. It's better\Nto fall bravely in battle.
+Dialogue: 0,0:15:18.71,0:15:22.46,Default,,0,0,0,,Take them from behind\Nbefore they can hide in the hills.
+Dialogue: 0,0:15:24.75,0:15:27.80,Default,,0,0,0,,Damnit. How did this happen?
+Dialogue: 0,0:15:28.17,0:15:33.64,Default,,0,0,0,,Quickly, men, turnabout!
+Dialogue: 0,0:15:33.64,0:15:36.01,Default,,0,0,0,,They've accepted their fate!
+Dialogue: 0,0:15:43.52,0:15:48.40,Default,,0,0,0,,Archers, loose!
+Dialogue: 0,0:15:48.40,0:15:51.86,Default,,0,0,0,,This is looking like a complete victory!
+Dialogue: 0,0:15:57.08,0:15:58.62,Default,,0,0,0,,Wh-What's this?!
+Dialogue: 0,0:15:58.62,0:16:01.62,Default,,0,0,0,,An ambush?!
+Dialogue: 0,0:16:01.62,0:16:03.00,Default,,0,0,0,,They're attacking!
+Dialogue: 0,0:16:03.00,0:16:05.92,Default,,0,0,0,,Defend General Urgio with your lives!
+Dialogue: 0,0:16:05.92,0:16:07.21,Default,,0,0,0,,Pathetic.
+Dialogue: 0,0:16:18.43,0:16:19.97,Default,,0,0,0,,Why you...!
+Dialogue: 0,0:16:20.98,0:16:22.98,Default,,0,0,0,,You're the general, I take it?
+Dialogue: 0,0:16:22.98,0:16:27.57,Default,,0,0,0,,Surrender now, and you\Nmay survive with prompt treatment.
+Dialogue: 0,0:16:27.57,0:16:30.94,Default,,0,0,0,,Surrender? Surrender, you say?
+Dialogue: 0,0:16:30.94,0:16:32.32,Default,,0,0,0,,To hell with that!
+Dialogue: 0,0:16:32.32,0:16:34.32,Default,,0,0,0,,I'm the general of Marden's army!
+Dialogue: 0,0:16:34.32,0:16:39.79,Default,,0,0,0,,I'm not gonna surrender to some woman,\Nand a lowly, dirty Flahm at that!
+Dialogue: 0,0:16:39.79,0:16:41.12,Default,,0,0,0,,So be it.
+Dialogue: 0,0:16:46.42,0:16:49.75,Default,,0,0,0,,Take his head and\Nraise it high for all to see.
+Dialogue: 0,0:16:49.75,0:16:54.59,Default,,0,0,0,,And see that his last words\Nare never heard again.
+Dialogue: 0,0:16:54.59,0:16:56.05,Default,,0,0,0,,Yes, ma'am.
+Dialogue: 0,0:16:56.05,0:17:00.56,Default,,0,0,0,,The enemy general died in\Nsilence as far as I'm concerned.
+Dialogue: 0,0:17:17.57,0:17:20.49,Default,,0,0,0,,This battle's pretty much over.
+Dialogue: 0,0:17:20.49,0:17:21.87,Default,,0,0,0,,Yes, indeed.
+Dialogue: 0,0:17:21.87,0:17:26.46,Default,,0,0,0,,Now what the hell am I supposed to do?
+Dialogue: 0,0:17:28.21,0:17:31.50,Default,,0,0,0,,Now that we've crushed\Nthe Mardenian invaders,
+Dialogue: 0,0:17:31.50,0:17:34.76,Default,,0,0,0,,Eastern Marden is utterly exposed!
+Dialogue: 0,0:17:34.76,0:17:38.80,Default,,0,0,0,,We should turn the tables\Nand invade at once!
+Dialogue: 0,0:17:38.80,0:17:43.35,Default,,0,0,0,,We could carve off a\Nlarge chunk of their territory!
+Dialogue: 0,0:17:43.35,0:17:44.64,Default,,0,0,0,,I agree.
+Dialogue: 0,0:17:44.64,0:17:49.40,Default,,0,0,0,,Our swift victory means we still\Nhave plenty of troops and supplies.
+Dialogue: 0,0:17:49.40,0:17:50.27,Default,,0,0,0,,Your Highness!
+Dialogue: 0,0:17:50.27,0:17:53.23,Default,,0,0,0,,What is your command?!
+Dialogue: 0,0:17:53.23,0:17:54.99,Default,,0,0,0,,I can't believe this!
+Dialogue: 0,0:17:54.99,0:18:00.16,Default,,0,0,0,,Do they have any idea how risky it is\Nto invade without carefully planning?!
+Dialogue: 0,0:18:00.16,0:18:02.95,Default,,0,0,0,,But how can I possibly say that now?
+Dialogue: 0,0:18:02.95,0:18:05.71,Default,,0,0,0,,Now that we've utterly\Ncrushed Marden's army,
+Dialogue: 0,0:18:05.71,0:18:11.50,Default,,0,0,0,,weak-kneed words will cause my generals'\Nloyalty to crash down like an avalanche.
+Dialogue: 0,0:18:11.50,0:18:15.63,Default,,0,0,0,,And that can only end in a coup d'etat!
+Dialogue: 0,0:18:15.63,0:18:19.97,Default,,0,0,0,,I didn't want to do this,\Nbut I've got no choice.
+Dialogue: 0,0:18:19.97,0:18:22.22,Default,,0,0,0,,I hear what you're saying.
+Dialogue: 0,0:18:22.22,0:18:28.06,Default,,0,0,0,,You're correct in saying our great victory\Nhas put tremendous momentum behind us.
+Dialogue: 0,0:18:28.98,0:18:32.44,Default,,0,0,0,,That is why I propose this.
+Dialogue: 0,0:18:32.44,0:18:36.11,Default,,0,0,0,,As you know, ours is a barren,\Nunprosperous land.
+Dialogue: 0,0:18:36.11,0:18:40.16,Default,,0,0,0,,But the same can be said of Marden.
+Dialogue: 0,0:18:40.16,0:18:43.37,Default,,0,0,0,,And its eastern region\Nhas few strategic points.
+Dialogue: 0,0:18:43.37,0:18:47.96,Default,,0,0,0,,Based on our current troop strength\Nand places within our grasp,
+Dialogue: 0,0:18:47.96,0:18:51.71,Default,,0,0,0,,there {\i1}is {\i0}a location worth taking.
+Dialogue: 0,0:18:51.71,0:18:53.50,Default,,0,0,0,,The Jilaat Gold Mine.
+Dialogue: 0,0:18:53.50,0:18:56.88,Default,,0,0,0,,If we're to capture anything,\Nit should be that.
+Dialogue: 0,0:18:58.59,0:19:01.18,Default,,0,0,0,,Yes! That's the reaction I wanted.
+Dialogue: 0,0:19:01.18,0:19:04.43,Default,,0,0,0,,After all, targeting\Ntheir gold mine is crazy talk!
+Dialogue: 0,0:19:04.43,0:19:06.93,Default,,0,0,0,,No matter how much strategic value it has,
+Dialogue: 0,0:19:06.93,0:19:12.69,Default,,0,0,0,,attacking without much intel\Nand with troops weary from battle
+Dialogue: 0,0:19:12.69,0:19:16.61,Default,,0,0,0,,would be fruitless, futile, feckless.
+Dialogue: 0,0:19:16.61,0:19:19.49,Default,,0,0,0,,But it has stoked a serious debate.
+Dialogue: 0,0:19:19.49,0:19:23.16,Default,,0,0,0,,The gold mine is impossible,\Nso they need another target.
+Dialogue: 0,0:19:23.16,0:19:26.29,Default,,0,0,0,,But where? Does Eastern Marden\Nhave another location
+Dialogue: 0,0:19:26.29,0:19:28.54,Default,,0,0,0,,with the strategic value of the mine?
+Dialogue: 0,0:19:28.54,0:19:30.54,Default,,0,0,0,,No! No, it doesn't!
+Dialogue: 0,0:19:30.54,0:19:32.96,Default,,0,0,0,,There are no other targets of value!
+Dialogue: 0,0:19:32.96,0:19:35.34,Default,,0,0,0,,The other possibilities are worthless.
+Dialogue: 0,0:19:35.34,0:19:40.18,Default,,0,0,0,,The moment they realize that,\Ntheir thirst for conquests will vanish.
+Dialogue: 0,0:19:40.18,0:19:43.80,Default,,0,0,0,,They may think a bit less of me\Nfor making a ludicrous proposal,
+Dialogue: 0,0:19:43.80,0:19:45.26,Default,,0,0,0,,but I'm used to it!
+Dialogue: 0,0:19:45.26,0:19:49.60,Default,,0,0,0,,And it'll be totally worth it\Nif they decide to withdraw!
+Dialogue: 0,0:19:49.60,0:19:50.48,Default,,0,0,0,,Your Highness.
+Dialogue: 0,0:19:50.48,0:19:53.31,Default,,0,0,0,,Here it comes!
+Dialogue: 0,0:19:53.31,0:19:56.69,Default,,0,0,0,,Well? Tell me my proposal is crazy talk.
+Dialogue: 0,0:19:56.69,0:20:00.28,Default,,0,0,0,,They want to tell me how reckless it is,\Nbut they don't know how.
+Dialogue: 0,0:20:00.28,0:20:03.28,Default,,0,0,0,,I gotta think of a way for\Nmy officers to preserve their honor
+Dialogue: 0,0:20:03.28,0:20:07.49,Default,,0,0,0,,by acting like their wisdom\Nstruck deep into my soul.
+Dialogue: 0,0:20:07.49,0:20:09.12,Default,,0,0,0,,If I do that, everything will be--
+Dialogue: 0,0:20:09.12,0:20:12.71,Default,,0,0,0,,I am in awe of your intellect.
+Dialogue: 0,0:20:12.71,0:20:13.67,Default,,0,0,0,,What?!
+Dialogue: 0,0:20:13.67,0:20:15.96,Default,,0,0,0,,It is just as you say, Your Highness.
+Dialogue: 0,0:20:15.96,0:20:19.17,Default,,0,0,0,,The Jilaat Gold Mine\Nis the only target of worth!
+Dialogue: 0,0:20:19.17,0:20:21.13,Default,,0,0,0,,This is, indeed, a surprise.
+Dialogue: 0,0:20:21.13,0:20:23.80,Default,,0,0,0,,I can hardly believe that your Highness
+Dialogue: 0,0:20:23.80,0:20:27.35,Default,,0,0,0,,knew of our long-standing plan\Nto take the gold mine.
+Dialogue: 0,0:20:27.35,0:20:29.64,Default,,0,0,0,,I'm absolutely speechless.
+Dialogue: 0,0:20:29.64,0:20:32.35,Default,,0,0,0,,Wait, what?!
+Dialogue: 0,0:20:32.35,0:20:34.77,Default,,0,0,0,,While we were celebrating our victory,
+Dialogue: 0,0:20:34.77,0:20:38.78,Default,,0,0,0,,Your Highness must have been\Nstudying the feasibility of our plan.
+Dialogue: 0,0:20:38.78,0:20:41.53,Default,,0,0,0,,I'm humbled by your foresight.
+Dialogue: 0,0:20:42.61,0:20:45.62,Default,,0,0,0,,Your Highness, we'll set out\Nat once upon your command!
+Dialogue: 0,0:20:45.62,0:20:48.54,Default,,0,0,0,,Let us strike the gold mine\Nwhile the iron's hot!
+Dialogue: 0,0:20:48.54,0:20:50.20,Default,,0,0,0,,--Your Highness!\N--Your Highness!
+Dialogue: 0,0:20:50.20,0:20:51.87,Default,,0,0,0,,Your Highness!
+Dialogue: 0,0:20:55.04,0:20:57.09,Default,,0,0,0,,Ninym, help.
+Dialogue: 0,0:20:57.09,0:20:59.13,Default,,0,0,0,,Sorry. Nothing I can do.
+Dialogue: 0,0:21:04.22,0:21:07.72,Default,,0,0,0,,The invasion of Marden is a done deal.
+Dialogue: 0,0:21:07.72,0:21:12.39,Default,,0,0,0,,I could've nixed the plan if\Nour army hadn't won by a landslide.
+Dialogue: 0,0:21:13.10,0:21:14.98,Default,,0,0,0,,So what now, Wein?
+Dialogue: 0,0:21:14.98,0:21:17.98,Default,,0,0,0,,I don't wanna think about it.\NI can't even.
+Dialogue: 0,0:21:17.98,0:21:19.98,Default,,0,0,0,,You know that's not an option.
+Dialogue: 0,0:21:19.98,0:21:21.19,Default,,0,0,0,,It's not?
+Dialogue: 0,0:21:21.19,0:21:22.32,Default,,0,0,0,,No, it's not.
+Dialogue: 0,0:21:22.32,0:21:26.87,Default,,0,0,0,,Okay, I'll think of something\Nif you meow like a cat.
+Dialogue: 0,0:21:26.87,0:21:28.37,Default,,0,0,0,,Well, come on then!
+Dialogue: 0,0:21:28.37,0:21:30.62,Default,,0,0,0,,Cat got your tongue, Ninym?
+Dialogue: 0,0:21:30.62,0:21:33.00,Default,,0,0,0,,Has curiosity killed your inner cat?
+Dialogue: 0,0:21:33.00,0:21:36.42,Default,,0,0,0,,Too proud to channel your inner feline?
+Dialogue: 0,0:21:37.46,0:21:40.34,Default,,0,0,0,,Fine. Meow.
+Dialogue: 0,0:21:41.88,0:21:43.88,Default,,0,0,0,,So, what's the plan?
+Dialogue: 0,0:21:43.88,0:21:45.01,Default,,0,0,0,,Let's see.
+Dialogue: 0,0:21:45.01,0:21:49.35,Default,,0,0,0,,We should start by verifying\Nthe intel on the mine's defenses.
+Dialogue: 0,0:21:49.35,0:21:51.81,Default,,0,0,0,,Then we should reassess our supply lines
+Dialogue: 0,0:21:51.81,0:21:54.56,Default,,0,0,0,,and do our best to maintain troop morale.
+Dialogue: 0,0:21:54.56,0:21:58.77,Default,,0,0,0,,We can take the mine before Marden\Ncan mount an adequate defense.
+Dialogue: 0,0:21:58.77,0:22:03.82,Default,,0,0,0,,But that's all easier said than done.
+Dialogue: 0,0:22:03.82,0:22:05.20,Default,,0,0,0,,Meow.
+Dialogue: 0,0:22:05.20,0:22:09.07,Default,,0,0,0,,I know. It's back-to-back battles\Nafter the Polta Highlands.
+Dialogue: 0,0:22:09.07,0:22:11.70,Default,,0,0,0,,We're bound to stumble somewhere.
+Dialogue: 0,0:22:11.70,0:22:16.71,Default,,0,0,0,,But that stumble is just what we\Nneed to convince our army to withdraw.
+Dialogue: 0,0:22:17.33,0:22:20.21,Default,,0,0,0,,Now we wait for that to happen.
+Dialogue: 0,0:22:20.21,0:22:22.80,Default,,0,0,0,,Right.
+Dialogue: 0,0:22:22.80,0:22:24.26,Default,,0,0,0,,Meow.
+Dialogue: 0,0:22:26.72,0:22:29.22,Default,,0,0,0,,Well, that didn't work.
+Dialogue: 0,0:22:29.22,0:22:31.26,Default,,0,0,0,,We actually took the mine.
+Dialogue: 0,0:22:31.26,0:22:35.31,Default,,0,0,0,,We actually took it.
+Dialogue: 0,0:22:35.31,0:22:37.89,Default,,0,0,0,,Come on, meow for me.
+Dialogue: 0,0:22:37.89,0:22:39.98,Default,,0,0,0,,I'm so over that.

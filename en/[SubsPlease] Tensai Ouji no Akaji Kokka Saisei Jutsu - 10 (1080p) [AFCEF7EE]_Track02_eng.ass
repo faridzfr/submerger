@@ -1,0 +1,390 @@
+﻿[Script Info]
+Title: English (US)
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+PlayResX: 640
+PlayResY: 360
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Roboto Medium,26,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,0,0,0,0,100,100,0,0,1,1.3,0,2,20,20,23,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:32.03,0:00:33.19,Default,,0,0,0,,Thanks to you,
+Dialogue: 0,0:00:33.19,0:00:39.20,Default,,0,0,0,,all of Mealtars' people were\Nable to escape unharmed.
+Dialogue: 0,0:00:39.20,0:00:43.08,Default,,0,0,0,,I would like to express my gratitude\Nto you both on their behalf.
+Dialogue: 0,0:00:43.08,0:00:48.34,Default,,0,0,0,,Helping the oppressed is the\Ngreatest wish of the Teachings of Levetia.
+Dialogue: 0,0:00:48.34,0:00:52.26,Default,,0,0,0,,We are delighted we could\Nsave them from the empire's tyranny.
+Dialogue: 0,0:00:52.26,0:00:55.97,Default,,0,0,0,,How did you end up as\NMealtars' representative?
+Dialogue: 0,0:00:55.97,0:00:59.89,Default,,0,0,0,,That is a rather long\Nand complicated story.
+Dialogue: 0,0:00:59.89,0:01:04.02,Default,,0,0,0,,But this gentleman is their mayor,\Nand I have his consent.
+Dialogue: 0,0:01:06.94,0:01:09.36,Default,,0,0,0,,If I may, I have a question for you.
+Dialogue: 0,0:01:09.36,0:01:13.90,Default,,0,0,0,,Your army so graciously defended us,\Nbut what will they do now?
+Dialogue: 0,0:01:13.90,0:01:19.41,Default,,0,0,0,,Is it not obvious? They will drive back\Nthe princes' armies and free the city.
+Dialogue: 0,0:01:19.41,0:01:21.03,Default,,0,0,0,,Is that not right, King Gruyere?
+Dialogue: 0,0:01:21.03,0:01:23.45,Default,,0,0,0,,Yes, that was the plan.
+Dialogue: 0,0:01:23.45,0:01:25.50,Default,,0,0,0,,We cannot thank you enough.
+Dialogue: 0,0:01:25.50,0:01:31.63,Default,,0,0,0,,We escaped the city unharmed\Nthanks to the threat of your host.
+Dialogue: 0,0:01:31.63,0:01:36.34,Default,,0,0,0,,But to fall further into your debt\Ncould only be deemed ungracious of us.
+Dialogue: 0,0:01:36.34,0:01:40.72,Default,,0,0,0,,What would you do if you removed\Nyourselves from our protection?
+Dialogue: 0,0:01:40.72,0:01:43.14,Default,,0,0,0,,We will reclaim the city by our own hand.
+Dialogue: 0,0:01:43.14,0:01:47.06,Default,,0,0,0,,To that end, we would like to purchase\Nyour army's excess weapons and food.
+Dialogue: 0,0:01:47.06,0:01:49.77,Default,,0,0,0,,We'll pay triple the going price.
+Dialogue: 0,0:01:52.61,0:01:55.65,Default,,0,0,0,,Now, let's see what they say.
+Dialogue: 0,0:03:26.66,0:03:29.41,Default,,0,0,0,,You wish to buy our excess supplies?
+Dialogue: 0,0:03:30.29,0:03:35.09,Default,,0,0,0,,Of course, I am well aware that\Nyou act according to God's divine will.
+Dialogue: 0,0:03:35.09,0:03:38.96,Default,,0,0,0,,As such, your holy army will not\Nbe swayed by money.
+Dialogue: 0,0:03:38.96,0:03:41.76,Default,,0,0,0,,However, Mealtars is a mercantile city,
+Dialogue: 0,0:03:41.76,0:03:44.64,Default,,0,0,0,,and coin is the traditional\Nsymbol of good faith.
+Dialogue: 0,0:03:44.64,0:03:48.52,Default,,0,0,0,,Please allow us to pay you.
+Dialogue: 0,0:03:48.52,0:03:50.43,Default,,0,0,0,,Once we retake the city,
+Dialogue: 0,0:03:50.43,0:03:54.27,Default,,0,0,0,,we shall erect a monument\Nand temple in praise of your deeds.
+Dialogue: 0,0:03:57.32,0:04:00.90,Default,,0,0,0,,Now that the Levetians have\N30,000 refugees under their wing,
+Dialogue: 0,0:04:00.90,0:04:03.41,Default,,0,0,0,,their options must be limited.
+Dialogue: 0,0:04:03.41,0:04:08.83,Default,,0,0,0,,I imagine they'd like\Nto return home at once, but...
+Dialogue: 0,0:04:08.83,0:04:11.41,Default,,0,0,0,,You are offering us coin and renown
+Dialogue: 0,0:04:11.41,0:04:14.46,Default,,0,0,0,,if we leave you weapons\Nand food and return home?
+Dialogue: 0,0:04:15.63,0:04:19.21,Default,,0,0,0,,He is a marvel. He truly is.
+Dialogue: 0,0:04:19.21,0:04:22.55,Default,,0,0,0,,That move was far beyond\Nall my expectations.
+Dialogue: 0,0:04:22.55,0:04:24.38,Default,,0,0,0,,So, Prince Wein,
+Dialogue: 0,0:04:24.38,0:04:28.56,Default,,0,0,0,,I must refuse you for that very reason.
+Dialogue: 0,0:04:30.35,0:04:33.73,Default,,0,0,0,,How delightful. I'd love to play\Nwith this boy some more.
+Dialogue: 0,0:04:33.73,0:04:37.44,Default,,0,0,0,,I would deny him, frustrate him,\Nand then poke and prod the wound.
+Dialogue: 0,0:04:37.44,0:04:40.32,Default,,0,0,0,,I want to see how\Nhe reacts after that and--
+Dialogue: 0,0:04:40.32,0:04:41.40,Default,,0,0,0,,We accept.
+Dialogue: 0,0:04:41.40,0:04:42.61,Default,,0,0,0,,What?
+Dialogue: 0,0:04:42.61,0:04:45.57,Default,,0,0,0,,King Gruyere, what did you just say?
+Dialogue: 0,0:04:45.57,0:04:50.54,Default,,0,0,0,,I said I accept his proposal, Caldmellia,\NDirector of the Bureau of Teachings.
+Dialogue: 0,0:04:50.54,0:04:54.00,Default,,0,0,0,,Am I not the one responsible\Nfor this decision?
+Dialogue: 0,0:04:54.00,0:04:58.96,Default,,0,0,0,,I have the military under my charge.\NAs such, I say this:
+Dialogue: 0,0:04:58.96,0:05:01.38,Default,,0,0,0,,We should accept his proposal.
+Dialogue: 0,0:05:03.47,0:05:06.55,Default,,0,0,0,,He will likely create a militia\Nfrom the people of Mealtars.
+Dialogue: 0,0:05:06.55,0:05:09.01,Default,,0,0,0,,Once the imperial princes\Nare worn down by battle,
+Dialogue: 0,0:05:09.01,0:05:11.60,Default,,0,0,0,,he'll urge them to negotiate.
+Dialogue: 0,0:05:11.60,0:05:15.23,Default,,0,0,0,,We could press the matter and\Nhave Mealtars fight alongside us,
+Dialogue: 0,0:05:15.23,0:05:19.48,Default,,0,0,0,,but I have no intention of getting\Ncaught up in your capricious actions.
+Dialogue: 0,0:05:19.48,0:05:22.32,Default,,0,0,0,,We will only sell our surplus supplies.
+Dialogue: 0,0:05:22.32,0:05:26.70,Default,,0,0,0,,Our army stays put until we confirm\Nthat your people have retaken the city.
+Dialogue: 0,0:05:26.70,0:05:28.49,Default,,0,0,0,,I've no objections.
+Dialogue: 0,0:05:28.49,0:05:32.87,Default,,0,0,0,,I thank you from the bottom of\Nmy heart for your cooperation.
+Dialogue: 0,0:05:32.87,0:05:35.33,Default,,0,0,0,,I have a report for His Highness!
+Dialogue: 0,0:05:35.33,0:05:38.04,Default,,0,0,0,,What?! The people of Mealtars\Nhave taken up arms?!
+Dialogue: 0,0:05:38.04,0:05:41.38,Default,,0,0,0,,Yes, Your Highness! They're armed\Nand are coming down the hill!
+Dialogue: 0,0:05:44.09,0:05:47.26,Default,,0,0,0,,The people have been\Norganized into a militia,
+Dialogue: 0,0:05:47.26,0:05:49.97,Default,,0,0,0,,but can they repel my brothers' armies?
+Dialogue: 0,0:05:49.97,0:05:53.68,Default,,0,0,0,,The princes see Mealtars' people\Nas the goose that lays golden eggs.
+Dialogue: 0,0:05:53.68,0:05:57.56,Default,,0,0,0,,They won't want to fight because\Nthe more they kill, the less they profit.
+Dialogue: 0,0:05:57.56,0:06:03.15,Default,,0,0,0,,Plus, the Levetian army is\Nstill unscathed and in reserve.
+Dialogue: 0,0:06:03.15,0:06:05.11,Default,,0,0,0,,Send a message to Manfred at once!
+Dialogue: 0,0:06:07.15,0:06:09.91,Default,,0,0,0,,Now for the final touch.
+Dialogue: 0,0:06:09.91,0:06:12.99,Default,,0,0,0,,Lowa, ask the princes\Nto gather for a meeting.
+Dialogue: 0,0:06:12.99,0:06:14.74,Default,,0,0,0,,Wait, not that trick?
+Dialogue: 0,0:06:14.74,0:06:18.87,Default,,0,0,0,,Yep, it's the go-to move\Nat times like these!
+Dialogue: 0,0:06:21.63,0:06:24.63,Default,,0,0,0,,You know who's behind\Nthe assassination attempt?!
+Dialogue: 0,0:06:24.63,0:06:25.55,Default,,0,0,0,,Yes.
+Dialogue: 0,0:06:25.55,0:06:30.47,Default,,0,0,0,,Don't tell me you're\Naccusing Bardloche and me?
+Dialogue: 0,0:06:30.47,0:06:33.76,Default,,0,0,0,,I couldn't stop thinking about it.
+Dialogue: 0,0:06:33.76,0:06:36.89,Default,,0,0,0,,Why would the assassin do such a thing?
+Dialogue: 0,0:06:36.89,0:06:38.69,Default,,0,0,0,,Care to explain?
+Dialogue: 0,0:06:38.69,0:06:41.60,Default,,0,0,0,,Security in the city was airtight.
+Dialogue: 0,0:06:41.60,0:06:45.23,Default,,0,0,0,,Plus, private guards were\Nplaced at each compound.
+Dialogue: 0,0:06:45.23,0:06:49.24,Default,,0,0,0,,It's hard to believe an assassin could\Nsucceed under such circumstances.
+Dialogue: 0,0:06:49.24,0:06:53.78,Default,,0,0,0,,But there is one likely suspect.
+Dialogue: 0,0:06:53.78,0:06:57.41,Default,,0,0,0,,It's neither me nor\Nanyone else in this room.
+Dialogue: 0,0:06:57.41,0:06:58.62,Default,,0,0,0,,Don't tell me...
+Dialogue: 0,0:06:58.62,0:07:03.34,Default,,0,0,0,,That's right! This was all\Nthe work of Prince Demetrio!
+Dialogue: 0,0:07:05.46,0:07:07.51,Default,,0,0,0,,That is the truth behind this crime.
+Dialogue: 0,0:07:07.51,0:07:10.47,Default,,0,0,0,,That's absurd!\NWhy would he do such a thing?!
+Dialogue: 0,0:07:10.47,0:07:13.80,Default,,0,0,0,,Mealtars' standing suffered\Nwhen it fell under suspicion,
+Dialogue: 0,0:07:13.80,0:07:16.60,Default,,0,0,0,,and both of your forces\Nwere weakened in the fighting.
+Dialogue: 0,0:07:16.60,0:07:19.81,Default,,0,0,0,,If he were to return and attack you,
+Dialogue: 0,0:07:19.81,0:07:22.98,Default,,0,0,0,,he could claim Mealtars and the throne.
+Dialogue: 0,0:07:22.98,0:07:25.82,Default,,0,0,0,,Then Prince Demetrio would be victorious.
+Dialogue: 0,0:07:26.78,0:07:32.03,Default,,0,0,0,,I have no doubt that Demetrio never\Nintended for the summit to succeed.
+Dialogue: 0,0:07:32.03,0:07:34.74,Default,,0,0,0,,That's why he was not\Nreceptive to our discussions
+Dialogue: 0,0:07:34.74,0:07:37.29,Default,,0,0,0,,and kept pressing his claim to the throne.
+Dialogue: 0,0:07:37.29,0:07:40.25,Default,,0,0,0,,Don't tell me it's all...
+Dialogue: 0,0:07:40.25,0:07:43.17,Default,,0,0,0,,...getting pinned on Demetrio.
+Dialogue: 0,0:07:44.17,0:07:48.51,Default,,0,0,0,,That's right. The failed summit,\Nthe assassination attempt,
+Dialogue: 0,0:07:48.51,0:07:52.13,Default,,0,0,0,,the war, the bad weather tomorrow,\Nand everything under the sun!
+Dialogue: 0,0:07:52.13,0:07:54.59,Default,,0,0,0,,We'll pin it all on Demetrio!
+Dialogue: 0,0:07:54.59,0:07:58.10,Default,,0,0,0,,And there it is.\NWein's patented trial in absentia.
+Dialogue: 0,0:07:58.10,0:08:01.85,Default,,0,0,0,,Mealtars knows this was not\Na fight either of you sought.
+Dialogue: 0,0:08:01.85,0:08:05.65,Default,,0,0,0,,As such, we are prepared\Nto pay sufficient compensation.
+Dialogue: 0,0:08:05.65,0:08:11.86,Default,,0,0,0,,And we shall refrain from pursuing any\Nfuture relations with Prince Demetrio.
+Dialogue: 0,0:08:11.86,0:08:16.28,Default,,0,0,0,,If I reject their proposal,\NManfred will likely agree to it.
+Dialogue: 0,0:08:16.28,0:08:19.95,Default,,0,0,0,,If I reject their proposal and\NBardloche and I take Mealtars,
+Dialogue: 0,0:08:19.95,0:08:23.04,Default,,0,0,0,,we'll still end up\Nfighting over the throne.
+Dialogue: 0,0:08:23.04,0:08:25.79,Default,,0,0,0,,That will only end up\Nbenefitting Demetrio.
+Dialogue: 0,0:08:25.79,0:08:27.96,Default,,0,0,0,,He alone will claim victory.
+Dialogue: 0,0:08:29.17,0:08:30.55,Default,,0,0,0,,Very well, then.
+Dialogue: 0,0:08:30.55,0:08:32.34,Default,,0,0,0,,I agree to your proposal.
+Dialogue: 0,0:08:32.34,0:08:36.43,Default,,0,0,0,,I knew you two would be on board!
+Dialogue: 0,0:08:38.93,0:08:42.60,Default,,0,0,0,,I am afraid we have caused you\Nmuch needless trouble.
+Dialogue: 0,0:08:42.60,0:08:44.06,Default,,0,0,0,,Think nothing of it.
+Dialogue: 0,0:08:44.06,0:08:49.40,Default,,0,0,0,,It was a wonderful opportunity\Nto build strong ties with Mealtars.
+Dialogue: 0,0:08:49.40,0:08:53.15,Default,,0,0,0,,Pinning the blame on Demetrio\Nwill take the wind out of his sails.
+Dialogue: 0,0:08:53.15,0:08:56.78,Default,,0,0,0,,The same goes for my brothers'\Nforces surrounding the city.
+Dialogue: 0,0:08:56.78,0:08:58.24,Default,,0,0,0,,As a result,
+Dialogue: 0,0:08:58.24,0:09:02.45,Default,,0,0,0,,Mealtars is now firmly\Nensconced in my faction.
+Dialogue: 0,0:09:02.45,0:09:09.21,Default,,0,0,0,,Of course, I am well aware that the hearts\Nof your people lie with you, not me.
+Dialogue: 0,0:09:09.21,0:09:12.17,Default,,0,0,0,,This has made me realize something.
+Dialogue: 0,0:09:12.17,0:09:17.64,Default,,0,0,0,,The measure of a sovereign\Nis more than just strength.
+Dialogue: 0,0:09:17.64,0:09:23.48,Default,,0,0,0,,I asked Prince Wein a question before\Nour talks with King Gruyere and company.
+Dialogue: 0,0:09:23.48,0:09:28.19,Default,,0,0,0,,I said, "Why have you been so eager\Nto work together with Mealtars?"
+Dialogue: 0,0:09:28.19,0:09:30.02,Default,,0,0,0,,What did he say?
+Dialogue: 0,0:09:30.02,0:09:33.23,Default,,0,0,0,,Falanya has taken a shine to your city.
+Dialogue: 0,0:09:33.23,0:09:38.11,Default,,0,0,0,,What big brother wouldn't want his\Nlittle sister to return home triumphant.
+Dialogue: 0,0:09:39.41,0:09:44.12,Default,,0,0,0,,To think it was all to gladden\Nthe heart of his little sister.
+Dialogue: 0,0:09:44.12,0:09:48.88,Default,,0,0,0,,I'm amazed he would wager his\Nfate along with our city's just for that.
+Dialogue: 0,0:09:55.80,0:10:00.10,Default,,0,0,0,,Sheesh. I guess I'm not\Nused to laughing that hard.
+Dialogue: 0,0:10:00.10,0:10:01.30,Default,,0,0,0,,Let's try that a--
+Dialogue: 0,0:10:01.30,0:10:02.64,Default,,0,0,0,,Enough already.
+Dialogue: 0,0:10:02.64,0:10:06.06,Default,,0,0,0,,What's the point of straining\Nyour voice for something so dumb?
+Dialogue: 0,0:10:06.06,0:10:08.60,Default,,0,0,0,,Chances like this don't come too often.
+Dialogue: 0,0:10:08.60,0:10:11.77,Default,,0,0,0,,I don't see anything wrong\Nwith enjoying the moment.
+Dialogue: 0,0:10:11.77,0:10:14.03,Default,,0,0,0,,Well, I do understand how you feel.
+Dialogue: 0,0:10:14.03,0:10:18.32,Default,,0,0,0,,I never expected our exports to be such\Na success and fuel a booming economy.
+Dialogue: 0,0:10:18.32,0:10:22.62,Default,,0,0,0,,If we continue to prosper, the people\Nwill rejoice, and our budget will grow.
+Dialogue: 0,0:10:22.62,0:10:25.62,Default,,0,0,0,,We'll have more options,\Nand the kingdom's value will rise.
+Dialogue: 0,0:10:25.62,0:10:28.00,Default,,0,0,0,,Talk about too much of a good thing!
+Dialogue: 0,0:10:28.00,0:10:31.38,Default,,0,0,0,,I see a cushy life ahead\Nin my princely future!
+Dialogue: 0,0:10:31.38,0:10:35.67,Default,,0,0,0,,Wasn't long ago you were carrying on about\Nretiring and selling off the kingdom.
+Dialogue: 0,0:10:35.67,0:10:40.30,Default,,0,0,0,,Retire? Sell off the kingdom?\NI don't know {\i1}what {\i0}you're talking about!
+Dialogue: 0,0:10:40.30,0:10:42.22,Default,,0,0,0,,I'll indulge in every possible luxury
+Dialogue: 0,0:10:42.22,0:10:46.06,Default,,0,0,0,,while milking my current\Nposition for as long as I can!
+Dialogue: 0,0:10:46.06,0:10:50.35,Default,,0,0,0,,I'm impressed by how far revenue\Nfrom the Marden region has grown.
+Dialogue: 0,0:10:50.35,0:10:52.86,Default,,0,0,0,,I know! It's all thanks to my bright idea!
+Dialogue: 0,0:10:52.86,0:10:53.52,Default,,0,0,0,,{\an8}"Marden"    "Natra"
+Dialogue: 0,0:10:52.86,0:10:53.52,Default,,0,0,0,,I know! It's all thanks to my bright idea!
+Dialogue: 0,0:10:53.52,0:10:54.27,Default,,0,0,0,,{\an8}"Marden"    "Natra"
+Dialogue: 0,0:10:53.52,0:10:54.27,Default,,0,0,0,,By swearing allegiance to Natra,
+Dialogue: 0,0:10:54.27,0:10:55.65,Default,,0,0,0,,{\an8}"Natra"\N"Mardenian region"
+Dialogue: 0,0:10:54.27,0:10:55.65,Default,,0,0,0,,By swearing allegiance to Natra,
+Dialogue: 0,0:10:55.65,0:10:59.74,Default,,0,0,0,,{\an8}"Earthwold Empire"
+Dialogue: 0,0:10:55.65,0:10:59.74,Default,,0,0,0,,Marden now has access to an\Nabundance of goods from the east.
+Dialogue: 0,0:10:59.74,0:11:04.24,Default,,0,0,0,,But the nations of the west won't\Nwelcome such commerce with open arms.
+Dialogue: 0,0:11:04.24,0:11:09.66,Default,,0,0,0,,The Levetians view the continent's\Neastern half as barbarian territory.
+Dialogue: 0,0:11:09.66,0:11:12.42,Default,,0,0,0,,They're even prejudiced\Nagainst the east's goods.
+Dialogue: 0,0:11:12.42,0:11:16.46,Default,,0,0,0,,That's why I've conspired with Marden\Nto falsify the land of origin.
+Dialogue: 0,0:11:16.46,0:11:19.97,Default,,0,0,0,,We're exporting the empire's\Nproducts as if they were Natra's!
+Dialogue: 0,0:11:19.97,0:11:21.38,Default,,0,0,0,,It's a revolutionary idea!
+Dialogue: 0,0:11:21.38,0:11:23.64,Default,,0,0,0,,The venture has been a jackpot,
+Dialogue: 0,0:11:23.64,0:11:27.06,Default,,0,0,0,,greatly enriching Marden's coffers.
+Dialogue: 0,0:11:27.06,0:11:31.39,Default,,0,0,0,,It's tough being such\Na genius. It really is!
+Dialogue: 0,0:11:31.39,0:11:32.69,Default,,0,0,0,,But if this keeps up,
+Dialogue: 0,0:11:32.69,0:11:35.90,Default,,0,0,0,,Marden's economy will\Nrival ours in less than ten years.
+Dialogue: 0,0:11:35.90,0:11:38.78,Default,,0,0,0,,Worst case, they'll declare independence.
+Dialogue: 0,0:11:38.78,0:11:41.53,Default,,0,0,0,,We can't let {\i1}that {\i0}happen.
+Dialogue: 0,0:11:41.53,0:11:46.45,Default,,0,0,0,,We need to find another\Nmajor trading partner.
+Dialogue: 0,0:11:47.45,0:11:48.91,Default,,0,0,0,,Enter.
+Dialogue: 0,0:11:48.91,0:11:50.96,Default,,0,0,0,,Excuse me, Highness.
+Dialogue: 0,0:11:50.96,0:11:54.38,Default,,0,0,0,,An envoy has just arrived\Nfrom the Kingdom of Soljest.
+Dialogue: 0,0:11:54.38,0:11:56.50,Default,,0,0,0,,From Soljest?
+Dialogue: 0,0:11:57.92,0:12:00.80,Default,,0,0,0,,I'll be right there.\NShow them to the audience chamber.
+Dialogue: 0,0:12:00.80,0:12:01.88,Default,,0,0,0,,Highness!
+Dialogue: 0,0:12:03.51,0:12:08.10,Default,,0,0,0,,Soljest? What do you suppose\NKing Gruyere wants?
+Dialogue: 0,0:12:10.93,0:12:13.52,Default,,0,0,0,,I just thought of a great plan.
+Dialogue: 0,0:12:15.06,0:12:17.82,Default,,0,0,0,,Prince Wein is to visit Marden?
+Dialogue: 0,0:12:17.82,0:12:22.95,Default,,0,0,0,,Yes, it seems His Highness was invited\Nto a ceremony in the Kingdom of Soljest
+Dialogue: 0,0:12:22.95,0:12:25.66,Default,,0,0,0,,and would like to\Nvisit our land on his way.
+Dialogue: 0,0:12:25.66,0:12:29.74,Default,,0,0,0,,The prince is no doubt concerned\Nabout the future of Marden
+Dialogue: 0,0:12:29.74,0:12:31.79,Default,,0,0,0,,as a vassal state of Natra.
+Dialogue: 0,0:12:31.79,0:12:36.84,Default,,0,0,0,,Understood. Let us put His Highness's\Nmind to rest by showing our allegiance.
+Dialogue: 0,0:12:36.84,0:12:40.01,Default,,0,0,0,,Yes, but Marden is now\Nin a prime position.
+Dialogue: 0,0:12:40.01,0:12:43.68,Default,,0,0,0,,This is a chance to redress\Nthe disparities in our relationship.
+Dialogue: 0,0:12:43.68,0:12:47.55,Default,,0,0,0,,We may even be able\Nto extract some concessions.
+Dialogue: 0,0:12:48.47,0:12:53.44,Default,,0,0,0,,Tell me, Jiva, what sort of concessions\Ndo you think we should extract?
+Dialogue: 0,0:12:53.44,0:12:58.86,Default,,0,0,0,,Marriage between you, Lady Zenovia,\Nand His Highness, Prince Wein.
+Dialogue: 0,0:12:58.86,0:13:04.03,Default,,0,0,0,,With negotiations in Soljest near at hand,\Nhe'll no doubt avoid a clear answer.
+Dialogue: 0,0:13:04.03,0:13:09.03,Default,,0,0,0,,But it would be in our best interests to\Nextract a commitment while he is here.
+Dialogue: 0,0:13:09.03,0:13:13.00,Default,,0,0,0,,If such a marriage comes to pass,\Nit will boost Marden's standing in Natra
+Dialogue: 0,0:13:13.00,0:13:16.04,Default,,0,0,0,,and greatly expand our influence.
+Dialogue: 0,0:13:16.04,0:13:19.17,Default,,0,0,0,,But only if I can become his bride.
+Dialogue: 0,0:13:24.47,0:13:26.47,Default,,0,0,0,,Does it bother you that much?
+Dialogue: 0,0:13:26.47,0:13:29.05,Default,,0,0,0,,I'd like to muss it up, to say the least.
+Dialogue: 0,0:13:29.05,0:13:32.31,Default,,0,0,0,,No, the color will come off.\NI already told you.
+Dialogue: 0,0:13:32.31,0:13:34.14,Default,,0,0,0,,What about my princely prerogative?
+Dialogue: 0,0:13:34.14,0:13:36.31,Default,,0,0,0,,No means no.
+Dialogue: 0,0:13:36.31,0:13:40.77,Default,,0,0,0,,So, about what you said.\NDo you really intend to wed Zenovia?
+Dialogue: 0,0:13:40.77,0:13:44.74,Default,,0,0,0,,As if. I'd like to stay single for now.
+Dialogue: 0,0:13:44.74,0:13:45.82,Default,,0,0,0,,Why?
+Dialogue: 0,0:13:45.82,0:13:51.45,Default,,0,0,0,,I want to enjoy having all sorts of ladies\Nbegging for my hand in marriage.
+Dialogue: 0,0:13:51.45,0:13:53.16,Default,,0,0,0,,I was joking!
+Dialogue: 0,0:13:53.16,0:13:54.95,Default,,0,0,0,,Don't worry. I won't break it.
+Dialogue: 0,0:13:54.95,0:13:58.71,Default,,0,0,0,,The title of queen consort\Nis a useful negotiating tool
+Dialogue: 0,0:13:58.71,0:14:00.00,Default,,0,0,0,,--if we keep it up for grabs.
+Dialogue: 0,0:14:00.00,0:14:00.92,Default,,0,0,0,,--That's true.\N--if we keep it up for grabs.
+Dialogue: 0,0:14:00.92,0:14:04.26,Default,,0,0,0,,So, the purpose of this visit
+Dialogue: 0,0:14:04.26,0:14:09.80,Default,,0,0,0,,is to see whether Marden intends to\Nadopt a cooperative attitude toward Natra.
+Dialogue: 0,0:14:09.80,0:14:11.60,Default,,0,0,0,,And if they are cooperative,
+Dialogue: 0,0:14:11.60,0:14:15.18,Default,,0,0,0,,they're almost guaranteed\Nto demand that I wed Zenovia.
+Dialogue: 0,0:14:15.18,0:14:18.40,Default,,0,0,0,,In turn, I will do everything\Nto evade the issue.
+Dialogue: 0,0:14:18.40,0:14:20.23,Default,,0,0,0,,You are just plain awful.
+Dialogue: 0,0:14:22.73,0:14:24.98,Default,,0,0,0,,I bid you welcome.
+Dialogue: 0,0:14:24.98,0:14:28.07,Default,,0,0,0,,You are too gracious, Marchioness Zenovia.
+Dialogue: 0,0:14:28.07,0:14:31.45,Default,,0,0,0,,Your Highness, there is\Nno need to stand on ceremony.
+Dialogue: 0,0:14:31.45,0:14:33.74,Default,,0,0,0,,Zenovia alone will suffice.
+Dialogue: 0,0:14:33.74,0:14:37.29,Default,,0,0,0,,Then with your permission, Zeno...
+Dialogue: 0,0:14:37.29,0:14:38.58,Default,,0,0,0,,...via.
+Dialogue: 0,0:14:38.58,0:14:40.71,Default,,0,0,0,,Boobies!
+Dialogue: 0,0:14:40.71,0:14:44.30,Default,,0,0,0,,No, you idiot!\NFocus with all your strength!
+Dialogue: 0,0:14:46.09,0:14:49.68,Default,,0,0,0,,I was shocked the first time\NI heard about it.
+Dialogue: 0,0:14:49.68,0:14:54.35,Default,,0,0,0,,To think you would import imperial goods\Nand market them as Natran made.
+Dialogue: 0,0:14:54.35,0:14:58.81,Default,,0,0,0,,It was all for the benefit of the good\Nand godly people of the west.
+Dialogue: 0,0:14:58.81,0:15:01.27,Default,,0,0,0,,I simply got a bit creative.
+Dialogue: 0,0:15:01.27,0:15:05.11,Default,,0,0,0,,Zenovia, rapid growth may\Nsometimes be a source of stress.
+Dialogue: 0,0:15:05.11,0:15:09.24,Default,,0,0,0,,I would be happy to discuss\Nany concerns you might have.
+Dialogue: 0,0:15:09.24,0:15:12.41,Default,,0,0,0,,Well, since you mentioned it,
+Dialogue: 0,0:15:12.41,0:15:16.87,Default,,0,0,0,,the Kingdom of Delunio sent a letter\Nof protest regarding trade goods.
+Dialogue: 0,0:15:16.87,0:15:19.25,Default,,0,0,0,,From Delunio?
+Dialogue: 0,0:15:19.25,0:15:22.00,Default,,0,0,0,,So Marden also received that letter.
+Dialogue: 0,0:15:22.00,0:15:23.63,Default,,0,0,0,,So you did, too?
+Dialogue: 0,0:15:23.63,0:15:27.71,Default,,0,0,0,,Yes, it was a complaint\Nabout our trade goods.
+Dialogue: 0,0:15:28.21,0:15:30.63,Default,,0,0,0,,Their kingdom is extremely conservative.
+Dialogue: 0,0:15:30.63,0:15:32.80,Default,,0,0,0,,And their king is quite young,
+Dialogue: 0,0:15:32.80,0:15:37.47,Default,,0,0,0,,so most political matters are handled\Nby their prime minister, Sirgis.
+Dialogue: 0,0:15:37.47,0:15:42.27,Default,,0,0,0,,He is quite patriotic and a fervent\Nfollower of the Teachings of Levetia.
+Dialogue: 0,0:15:42.27,0:15:47.65,Default,,0,0,0,,He seeks to preserve his kingdom's culture\Nwhile casting out foreign influences.
+Dialogue: 0,0:15:47.65,0:15:51.53,Default,,0,0,0,,As such, he likely\Nharbors resentment toward us.
+Dialogue: 0,0:15:51.53,0:15:54.03,Default,,0,0,0,,Keep the goods flowing.
+Dialogue: 0,0:15:54.03,0:15:55.66,Default,,0,0,0,,Are you sure?
+Dialogue: 0,0:15:55.66,0:15:59.25,Default,,0,0,0,,He can't be {\i1}that {\i0}serious\Nif he merely sent a letter.
+Dialogue: 0,0:15:59.25,0:16:00.87,Default,,0,0,0,,Don't take him seriously
+Dialogue: 0,0:16:00.87,0:16:04.79,Default,,0,0,0,,until there is a line of envoys\Nprotesting outside your door.
+Dialogue: 0,0:16:04.79,0:16:07.88,Default,,0,0,0,,All right, I will do that.
+Dialogue: 0,0:16:13.09,0:16:15.68,Default,,0,0,0,,Wait. Is that all she has to say?
+Dialogue: 0,0:16:15.68,0:16:18.06,Default,,0,0,0,,When I asked if she had any concerns,
+Dialogue: 0,0:16:18.06,0:16:22.31,Default,,0,0,0,,I thought she'd mention the disparities\Nin our kingdom and bring up our marriage.
+Dialogue: 0,0:16:22.31,0:16:25.23,Default,,0,0,0,,That's what I was banking on, at least.
+Dialogue: 0,0:16:27.27,0:16:32.40,Default,,0,0,0,,You were so sure\Nshe'd ask you to marry her.
+Dialogue: 0,0:16:32.40,0:16:35.24,Default,,0,0,0,,Then you were supposed\Nto coolly brush her off.
+Dialogue: 0,0:16:39.33,0:16:42.75,Default,,0,0,0,,She'll have to make some\Nkind of move tomorrow!
+Dialogue: 0,0:16:42.75,0:16:45.96,Default,,0,0,0,,I bet she'll drop a hint\Nduring the tour of the city!
+Dialogue: 0,0:16:45.96,0:16:49.17,Default,,0,0,0,,Let's hope they don't think\Nyou suffer from an inflated ego.
+Dialogue: 0,0:16:49.17,0:16:53.76,Default,,0,0,0,,That's the one thing I want\Nto avoid for the sake of my honor!
+Dialogue: 0,0:16:58.22,0:17:01.85,Default,,0,0,0,,I am honored to see you again,\NYour Highness.
+Dialogue: 0,0:17:04.35,0:17:07.36,Default,,0,0,0,,Zeno, may I ask how\Nyou serve the marchioness?
+Dialogue: 0,0:17:07.36,0:17:09.94,Default,,0,0,0,,I am one of Lady Zenovia's attendants.
+Dialogue: 0,0:17:09.94,0:17:13.45,Default,,0,0,0,,I watch over the city and handle\Nother affairs in milady's stead.
+Dialogue: 0,0:17:13.45,0:17:17.78,Default,,0,0,0,,Today, she asked me to tell you\Nto please enjoy the tour of our city.
+Dialogue: 0,0:17:17.78,0:17:22.25,Default,,0,0,0,,I bet she'll try to break the ice\Nwhile she shows me around.
+Dialogue: 0,0:17:22.25,0:17:23.96,Default,,0,0,0,,Now then, shall we begin?
+Dialogue: 0,0:17:34.30,0:17:37.14,Default,,0,0,0,,The bronze statues in our central plaza
+Dialogue: 0,0:17:37.14,0:17:41.43,Default,,0,0,0,,were erected as a symbol of Marden's\Ndesire for peace and prosperity.
+Dialogue: 0,0:17:41.43,0:17:45.85,Default,,0,0,0,,Our land has yet to fully heal\Nfrom the recent war.
+Dialogue: 0,0:17:45.85,0:17:49.94,Default,,0,0,0,,But all of us hope that we have\Nfinally achieved a lasting peace.
+Dialogue: 0,0:17:49.94,0:17:51.19,Default,,0,0,0,,Have no fear.
+Dialogue: 0,0:17:51.19,0:17:55.82,Default,,0,0,0,,Marden will continue to thrive\Nas long as the economy is booming.
+Dialogue: 0,0:17:55.82,0:18:00.49,Default,,0,0,0,,Economic power means you can\Nward off outside interference.
+Dialogue: 0,0:18:00.49,0:18:05.08,Default,,0,0,0,,And as you grow strong, you can join\Nyour neighbors in a bid for independence.
+Dialogue: 0,0:18:05.08,0:18:08.54,Default,,0,0,0,,Is that not an eventual\Noption open to you?
+Dialogue: 0,0:18:08.54,0:18:10.46,Default,,0,0,0,,Surely you jest?
+Dialogue: 0,0:18:10.46,0:18:15.17,Default,,0,0,0,,Lady Zenovia and her vassals\Nare happy to be a part of Natra.
+Dialogue: 0,0:18:15.17,0:18:19.14,Default,,0,0,0,,We believe that is the best way\Nto assure Marden's prosperity.
+Dialogue: 0,0:18:19.14,0:18:20.35,Default,,0,0,0,,I see.
+Dialogue: 0,0:18:20.35,0:18:24.89,Default,,0,0,0,,So she intends to maintain a\Ncooperative relationship with Natra.
+Dialogue: 0,0:18:24.89,0:18:26.14,Default,,0,0,0,,In that case...
+Dialogue: 0,0:18:26.14,0:18:29.73,Default,,0,0,0,,Shall we take a break?\NThere is a bench over there.
+Dialogue: 0,0:18:29.73,0:18:34.23,Default,,0,0,0,,Here it comes! She's going\Nto broach the subject of marriage!
+Dialogue: 0,0:18:36.28,0:18:38.28,Default,,0,0,0,,What do you think of our city?
+Dialogue: 0,0:18:38.28,0:18:41.66,Default,,0,0,0,,The sights were magnificent,\Nas is the energy of your people.
+Dialogue: 0,0:18:41.66,0:18:45.62,Default,,0,0,0,,Seeing it firsthand made me realize\Nhow much they are counting on you.
+Dialogue: 0,0:18:45.62,0:18:50.46,Default,,0,0,0,,Indeed. My support continues\Nto grow as the economy booms.
+Dialogue: 0,0:18:50.46,0:18:54.30,Default,,0,0,0,,A good relationship between rulers\Nand their people never hurts.
+Dialogue: 0,0:18:54.30,0:18:57.30,Default,,0,0,0,,But you can never rest easy.
+Dialogue: 0,0:18:57.30,0:19:00.55,Default,,0,0,0,,I have always wanted to ask you.
+Dialogue: 0,0:19:00.55,0:19:05.14,Default,,0,0,0,,Why is Your Highness\Nso wary of the people?
+Dialogue: 0,0:19:05.14,0:19:06.06,Default,,0,0,0,,Wary?
+Dialogue: 0,0:19:06.06,0:19:10.52,Default,,0,0,0,,Well, maybe wary isn't\Nreally the right word.
+Dialogue: 0,0:19:10.52,0:19:12.81,Default,,0,0,0,,Perhaps "oddly distant" is better.
+Dialogue: 0,0:19:12.81,0:19:14.90,Default,,0,0,0,,Well...
+Dialogue: 0,0:19:14.90,0:19:17.11,Default,,0,0,0,,...let me ask you this.
+Dialogue: 0,0:19:17.11,0:19:19.40,Default,,0,0,0,,Are noble and royal bloodlines venerable?
+Dialogue: 0,0:19:19.40,0:19:21.91,Default,,0,0,0,,What? Of course they are!
+Dialogue: 0,0:19:21.91,0:19:25.54,Default,,0,0,0,,Everyone believes that they are.
+Dialogue: 0,0:19:25.54,0:19:28.00,Default,,0,0,0,,Then let me ask you this.
+Dialogue: 0,0:19:28.00,0:19:32.04,Default,,0,0,0,,At what point do you think\Nthey became venerable?
+Dialogue: 0,0:19:32.04,0:19:35.42,Default,,0,0,0,,I'm not sure I follow.
+Dialogue: 0,0:19:35.42,0:19:38.09,Default,,0,0,0,,For instance, I am a member\Nof the Natran royal family.
+Dialogue: 0,0:19:38.09,0:19:43.01,Default,,0,0,0,,If noble and royal bloodlines are\Nvenerable, when did I become so?
+Dialogue: 0,0:19:44.43,0:19:46.51,Default,,0,0,0,,When you were born?
+Dialogue: 0,0:19:46.51,0:19:47.81,Default,,0,0,0,,Right.
+Dialogue: 0,0:19:47.81,0:19:52.73,Default,,0,0,0,,Those born of a venerable bloodline\Nwill also be of venerable blood.
+Dialogue: 0,0:19:52.73,0:19:55.15,Default,,0,0,0,,So then, when did\Nmy father become venerable?
+Dialogue: 0,0:19:55.15,0:19:58.36,Default,,0,0,0,,When he was born, of course,\Njust like Your Highness.
+Dialogue: 0,0:19:58.36,0:19:59.57,Default,,0,0,0,,Exactly.
+Dialogue: 0,0:19:59.57,0:20:03.32,Default,,0,0,0,,Children born of royalty are venerable\Nbecause their parents are, too.
+Dialogue: 0,0:20:03.32,0:20:06.62,Default,,0,0,0,,And {\i1}their {\i0}parents, too, are venerable,\Nand so on down the line.
+Dialogue: 0,0:20:06.62,0:20:08.41,Default,,0,0,0,,It's simple logic.
+Dialogue: 0,0:20:08.41,0:20:10.04,Default,,0,0,0,,So then, Ninym.
+Dialogue: 0,0:20:10.04,0:20:14.29,Default,,0,0,0,,If we traced my bloodline back through\Nhistory, where would we end up?
+Dialogue: 0,0:20:14.29,0:20:19.01,Default,,0,0,0,,Caleus, a chief disciple of Levetia,\Nfounder of the Levetian religion.
+Dialogue: 0,0:20:19.01,0:20:20.59,Default,,0,0,0,,Right.
+Dialogue: 0,0:20:20.59,0:20:25.10,Default,,0,0,0,,However, he was but a humble farmer\Nuntil Levetia found him.
+Dialogue: 0,0:20:25.10,0:20:27.01,Default,,0,0,0,,His parents were, too.
+Dialogue: 0,0:20:27.01,0:20:29.35,Default,,0,0,0,,So back to that question.
+Dialogue: 0,0:20:29.35,0:20:33.65,Default,,0,0,0,,At what point did Caleus's\Nbloodline become venerable?
+Dialogue: 0,0:20:33.65,0:20:39.07,Default,,0,0,0,,Once he started following Levetia\Nand accomplished many great deeds?
+Dialogue: 0,0:20:39.07,0:20:41.11,Default,,0,0,0,,Precisely.
+Dialogue: 0,0:20:41.11,0:20:45.91,Default,,0,0,0,,By virtue of their brains,\Ntheir brawn, or even plain luck,
+Dialogue: 0,0:20:45.91,0:20:49.24,Default,,0,0,0,,commoners can distinguish\Nthemselves and gain renown.
+Dialogue: 0,0:20:49.24,0:20:52.16,Default,,0,0,0,,If you trace back through\Nall venerable bloodlines,
+Dialogue: 0,0:20:52.16,0:20:54.42,Default,,0,0,0,,you'll always end up at a commoner.
+Dialogue: 0,0:20:54.42,0:20:58.34,Default,,0,0,0,,What does that have\Nto do with my question?
+Dialogue: 0,0:20:58.34,0:21:02.17,Default,,0,0,0,,In short, all nobility and royalty,\Neven the most haughty,
+Dialogue: 0,0:21:02.17,0:21:04.59,Default,,0,0,0,,were commoners\Nif you trace all the way back.
+Dialogue: 0,0:21:04.59,0:21:07.85,Default,,0,0,0,,That means even those despised\Nas commoners today
+Dialogue: 0,0:21:07.85,0:21:11.22,Default,,0,0,0,,can become nobles or even royalty one day.
+Dialogue: 0,0:21:19.44,0:21:24.03,Default,,0,0,0,,Now back to your first question.\NWhy am I wary of the people?
+Dialogue: 0,0:21:24.03,0:21:27.16,Default,,0,0,0,,Natra is home to some 800,000 people.
+Dialogue: 0,0:21:27.16,0:21:33.71,Default,,0,0,0,,There are that many nameless yet\Npotential royals watching my every move.
+Dialogue: 0,0:21:33.71,0:21:36.58,Default,,0,0,0,,How could I live like\Nthat without being wary?
+Dialogue: 0,0:21:38.34,0:21:41.13,Default,,0,0,0,,I suppose that's why many royals
+Dialogue: 0,0:21:41.13,0:21:45.51,Default,,0,0,0,,try to create mythologies\Nsurrounding their families.
+Dialogue: 0,0:21:45.51,0:21:47.09,Default,,0,0,0,,What's the matter?
+Dialogue: 0,0:21:47.09,0:21:53.22,Default,,0,0,0,,Nothing really. It's just, I am once again\Noverwhelmed by how great a man you are.
+Dialogue: 0,0:21:53.22,0:21:54.98,Default,,0,0,0,,Pay it no mind.
+Dialogue: 0,0:21:54.98,0:21:56.85,Default,,0,0,0,,A great man?
+Dialogue: 0,0:21:56.85,0:21:59.19,Default,,0,0,0,,I'm glad you think so,
+Dialogue: 0,0:21:59.19,0:22:03.15,Default,,0,0,0,,but I'm not feeling\Nvery great at the moment.
+Dialogue: 0,0:22:03.15,0:22:04.07,Default,,0,0,0,,Why is that?
+Dialogue: 0,0:22:04.07,0:22:08.91,Default,,0,0,0,,Truth be told, a wedding proposal\NI'd expected never materialized.
+Dialogue: 0,0:22:08.91,0:22:13.37,Default,,0,0,0,,And so I started to think\Nthat maybe I had an inflated ego.
+Dialogue: 0,0:22:15.25,0:22:18.12,Default,,0,0,0,,I know not whom you speak of.
+Dialogue: 0,0:22:18.12,0:22:23.88,Default,,0,0,0,,But if it is a certain Mardenian,\Nshe is too busy with the affairs of state.
+Dialogue: 0,0:22:23.88,0:22:26.84,Default,,0,0,0,,I believe marriage would be unthinkable.
+Dialogue: 0,0:22:26.84,0:22:30.97,Default,,0,0,0,,B-But if she married me, those affairs\Nthat make her busy would vanish.
+Dialogue: 0,0:22:30.97,0:22:33.01,Default,,0,0,0,,Wouldn't that be handy?
+Dialogue: 0,0:22:33.01,0:22:39.35,Default,,0,0,0,,While that may be true,\Nshe may also have a shallower reason.
+Dialogue: 0,0:22:39.35,0:22:41.11,Default,,0,0,0,,A shallower reason?
+Dialogue: 0,0:22:41.11,0:22:46.90,Default,,0,0,0,,For instance, Your Highness's face\Nis not her type. Things like that.
+Dialogue: 0,0:22:49.03,0:22:52.08,Default,,0,0,0,,No, that was simply a jest.
+Dialogue: 0,0:22:52.08,0:22:57.46,Default,,0,0,0,,W-Well, it's about time we get back.\NLet us return to the palace.
+Dialogue: 0,0:22:57.46,0:23:02.04,Default,,0,0,0,,The light at this time of day gives\Na whole different look to the city.
+Dialogue: 0,0:23:03.17,0:23:06.01,Default,,0,0,0,,My face isn't her type.
+Dialogue: 0,0:23:06.01,0:23:09.47,Default,,0,0,0,,Stupid inflated ego!
+Dialogue: 0,0:23:10.64,0:23:14.81,Default,,0,0,0,,Let it go, already. It was\Nspur-of-the-moment subterfuge.
+Dialogue: 0,0:23:14.81,0:23:17.39,Default,,0,0,0,,I'm entering hibernation. See you later.
+Dialogue: 0,0:23:17.39,0:23:19.23,Default,,0,0,0,,You're impossible.
+Dialogue: 0,0:23:19.23,0:23:20.94,Default,,0,0,0,,Forgive me, Jiva.
+Dialogue: 0,0:23:20.94,0:23:25.15,Default,,0,0,0,,I disregarded your idea of marriage.
+Dialogue: 0,0:23:25.15,0:23:29.86,Default,,0,0,0,,The prince seems distant and a bit scary.
+Dialogue: 0,0:23:29.86,0:23:35.08,Default,,0,0,0,,So then Prince Wein is like a\Nsort of hero to you, Lady Zenovia.
+Dialogue: 0,0:23:35.08,0:23:38.50,Default,,0,0,0,,Yes, that is painfully apparent\Nwhen I speak with him.
+Dialogue: 0,0:23:38.50,0:23:43.46,Default,,0,0,0,,And it reminds me that I could\Nnever be queen to such a great man.
+Dialogue: 0,0:23:43.46,0:23:47.80,Default,,0,0,0,,I know that such a marriage\Nwould be a clever move.
+Dialogue: 0,0:23:47.80,0:23:50.22,Default,,0,0,0,,Passing it up means I failed as a leader.
+Dialogue: 0,0:23:50.22,0:23:54.93,Default,,0,0,0,,You need not wed His Highness\Nif your heart is in doubt.
+Dialogue: 0,0:23:54.93,0:23:59.89,Default,,0,0,0,,Take comfort in knowing your vassals\Nshall help you find the best way forward.
+Dialogue: 0,0:23:59.89,0:24:01.19,Default,,0,0,0,,Thank you.
+Dialogue: 0,0:24:01.19,0:24:02.90,Default,,0,0,0,,It is our duty.
+Dialogue: 0,0:24:02.90,0:24:03.94,Default,,0,0,0,,Milady!
+Dialogue: 0,0:24:03.94,0:24:05.19,Default,,0,0,0,,What is it?!
+Dialogue: 0,0:24:05.19,0:24:08.57,Default,,0,0,0,,Delunio's prime minister\Nis at the front gate!
+Dialogue: 0,0:24:08.57,0:24:10.40,Default,,0,0,0,,Sirgis is here?!
