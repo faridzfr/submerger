@@ -2,6 +2,15 @@
 
 A Python tool designed to merge dual-language subtitles with flexible styling options and customization. This tool is particularly useful for language learners who want to improve comprehension by watching videos with two subtitle tracks—one for their native language and one for the target language. By seeing the translations side-by-side or consecutively, learners can associate words and phrases more effectively.
 
+### Features
+
+- Merge single files or batches
+- Persistent custom styles
+- Command-line fontsize overrides
+- Detailed error reporting
+- Customization prompts once at the start for batch processing
+- Resets customization prompts for single file operations
+
 ## 📥 Installation
 
 ### Clone the Repository
@@ -88,15 +97,6 @@ PlayResX=1280
 PlayResY=720
 ScaledBorderAndShadow=no
 ```
-
-### Features
-
-- Merge single files or batches
-- Persistent custom styles
-- Command-line fontsize overrides
-- Detailed error reporting
-- Customization prompts once at the start for batch processing
-- Resets customization prompts for single file operations
 
 ## 📝 Notes
 
