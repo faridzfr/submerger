@@ -63,7 +63,7 @@ python submerger.py en/ ja/ -m consecutive -o output/ --fontsize 24
 | -------------- | -------------------------------------- | ---------- | -------- |
 | `sub1`         | First subtitle file/folder (English)   | -          | Yes      |
 | `sub2`         | Second subtitle file/folder (Japanese) | -          | Yes      |
-| `-o, --output` | Output path                            | `output/`  | No       |
+| `-o, --output` | Output path                            | `output/`  | Yes      |
 | `-m, --mode`   | `side` or `consecutive`                | `side`     | No       |
 | `--lang1`      | First language label                   | `English`  | No       |
 | `--lang2`      | Second language label                  | `Japanese` | No       |
